@@ -14,3 +14,7 @@ From directory of program exe file:
 
 #mpiexec –n 5 PrimeNumberMPI.exe 10
 
+#Results
+
+![Alt text](/mpi_twin_prime.png?raw=true "MPI Twin Prime")
+
